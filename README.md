@@ -1,4 +1,4 @@
-# Clarkson University: Liveness Detection Competition Datasets 2024 Face (LivDet) 1
+# Clarkson University: Liveness Detection Competition Datasets 2024 Face (LivDet)
 
 Available to CITeR members only under the CITeR Database Release Agreement. 
 
@@ -25,3 +25,4 @@ LivDet-Face 2024 Spoof Types. The LivDet-Face 2024 dataset introduced nine PAI c
 | PAI | REPLAY ATTACK (RA) | 8510 | 8510 | DSLR, iPhone 6s:12:X, Redmi 9A:6 Pro, Pixel, S9 |
 | PAI | SILICON MASK (SM) | 141 | 141 | DSLR, iPhone X, S9, Pixel, Basler aA1920-150uc |
 
+L. Igene et al., "Face Liveness Detection Competition (LivDet-Face) - 2024," 2024 IEEE International Joint Conference on Biometrics (IJCB), Buffalo, NY, USA, 2024, pp. 1-9, doi: 10.1109/IJCB62174.2024.10744462.
